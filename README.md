@@ -46,7 +46,7 @@ Welcome to the backend of a real-time chat application! 🚀 This backend is pow
     ```bash
     npm run dev
     ```
-2. The backend will be running on [http://localhost:3000](http://localhost:3000).
+2. The backend will be running on [http://localhost:5001](http://localhost:5001).
 
 ## API Endpoints 📡
 
